@@ -1,4 +1,4 @@
-# userscripts--bypass-safe-links
+# userscript-bypass-safe-links
 
 ## Install
 * [Install Violentmonkey](https://violentmonkey.github.io/get-it/) or any other userscript manager
